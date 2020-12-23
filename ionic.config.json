@@ -1,0 +1,7 @@
+{
+  "name": "drawmatic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
